@@ -1,7 +1,7 @@
 # FileSharingApplication
 FileShare is a simple and secure file sharing application that allows users to easily share files with others. It provides a user-friendly interface and robust functionality for seamless file sharing.
 
-**Features**
+# Features
 
 **1. Easy File Sharing:** Share files effortlessly with a few clicks.
 
@@ -14,16 +14,15 @@ FileShare is a simple and secure file sharing application that allows users to e
 **5. Customizable Settings:** Users can customize their sharing preferences and privacy settings.
 
 
-**Getting Started**
+# Getting Started
 These instructions will help you set up and run the FileShare application on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-**Prerequisites**
+# Prerequisites
 
 1. Node.js installed
 2. MongoDB installed and running
 
-
-**Installation**
+# Installation
 
 **1. Clone the repository:**
 
@@ -42,6 +41,18 @@ These instructions will help you set up and run the FileShare application on you
   	npm start
 
 **5. Access the application at http://localhost:3000 in your browser.**
+
+# Screenshots
+
+![Screenshot 2024-02-17 225551](https://github.com/ritikkumar1106/FileSharingApplication/assets/128838254/06ebba31-9898-46a8-b93e-0c8d0f1f4ccc)
+
+
+
+![Screenshot 2024-02-17 225648](https://github.com/ritikkumar1106/FileSharingApplication/assets/128838254/785b96de-f7b6-43d7-b4f9-4b03b763933a)
+
+
+
+
 
 
 
