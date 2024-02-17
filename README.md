@@ -54,6 +54,12 @@ These instructions will help you set up and run the FileShare application on you
 
 
 
+![Screenshot 2024-02-17 225713](https://github.com/ritikkumar1106/FileSharingApplication/assets/128838254/a99c48c2-a16b-4bce-b229-e3fa19b0b387)
+
+
+
+
+![Screenshot 2024-02-17 225734](https://github.com/ritikkumar1106/FileSharingApplication/assets/128838254/1c615fad-1625-451a-a719-13f3802b6e34)
 
 
 
